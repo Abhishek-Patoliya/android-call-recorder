@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.callrecorder.app.domain.AudioConfigTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-11T05:12:27.096Z" hostname="Abhisheks-MacBook-Air.local" time="0.001">
+  <properties/>
+  <testcase name="testDefaultSettings" classname="com.callrecorder.app.domain.AudioConfigTest" time="0.001"/>
+  <testcase name="testAudioSourceEnums" classname="com.callrecorder.app.domain.AudioConfigTest" time="0.0"/>
+  <testcase name="testAudioFormatOptions" classname="com.callrecorder.app.domain.AudioConfigTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,59 @@
+com.callrecorder.app-ui-unit-release-0 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/07a2eeedfbf0c2ae2ab5b3bbe747c309/transformed/ui-unit-release/res
+com.callrecorder.app-navigation-compose-2.8.0-1 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/11f48b4f2b625dc9c034edcee1d8431d/transformed/navigation-compose-2.8.0/res
+com.callrecorder.app-ui-release-2 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/14cbc50a99002ee10fe2c1c753fc4404/transformed/ui-release/res
+com.callrecorder.app-foundation-release-3 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/1fc786fefb99d25186c59020293fb99c/transformed/foundation-release/res
+com.callrecorder.app-lifecycle-viewmodel-compose-release-4 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/2356482c478eda47d5d1e321e3e46754/transformed/lifecycle-viewmodel-compose-release/res
+com.callrecorder.app-savedstate-1.2.1-5 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/25ef65e549063d3e998d48731d72eafd/transformed/savedstate-1.2.1/res
+com.callrecorder.app-lifecycle-viewmodel-release-6 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/26acb2ddae4aef37b62378989722bcba/transformed/lifecycle-viewmodel-release/res
+com.callrecorder.app-foundation-layout-release-7 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/277c399e33b4babfba4f31276f22a08b/transformed/foundation-layout-release/res
+com.callrecorder.app-navigation-runtime-2.8.0-8 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/36e46dcf541753440e9321076b9b0ee2/transformed/navigation-runtime-2.8.0/res
+com.callrecorder.app-customview-poolingcontainer-1.0.0-9 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/3932203356da24ffbeb5ab551a16de9a/transformed/customview-poolingcontainer-1.0.0/res
+com.callrecorder.app-animation-release-10 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/3b0a055cf0026c0edadbe7abbff0813c/transformed/animation-release/res
+com.callrecorder.app-core-runtime-2.2.0-11 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/42567f2d19b188f2f87002c985316a9b/transformed/core-runtime-2.2.0/res
+com.callrecorder.app-ui-graphics-release-12 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/4a6130009ac88e602a5abbc6e59a75a1/transformed/ui-graphics-release/res
+com.callrecorder.app-core-1.13.1-13 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/4e179d7e11504fad3ebb8b41ef235d08/transformed/core-1.13.1/res
+com.callrecorder.app-navigation-common-2.8.0-14 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/554c8a636213d7a84bb6ebebe9b18b4a/transformed/navigation-common-2.8.0/res
+com.callrecorder.app-sqlite-2.4.0-15 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/5785bd727d36c5224f39339ed44a9f1f/transformed/sqlite-2.4.0/res
+com.callrecorder.app-material-release-16 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/578c7c0afbbc6315323dab3cb143eae9/transformed/material-release/res
+com.callrecorder.app-material-ripple-release-17 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/585dce53b9647b047d7cf8808c5e543c/transformed/material-ripple-release/res
+com.callrecorder.app-startup-runtime-1.1.1-18 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/5b32e126d938c358168d1e1d65b17b7a/transformed/startup-runtime-1.1.1/res
+com.callrecorder.app-ui-geometry-release-19 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/5f10059f449420fcee2c3801915adb2e/transformed/ui-geometry-release/res
+com.callrecorder.app-lifecycle-runtime-release-20 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/69861f4886ae3d0b866da632f39e9fe0/transformed/lifecycle-runtime-release/res
+com.callrecorder.app-lifecycle-process-2.8.5-21 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/6988bdab2953fdeed3fc2e9415496731/transformed/lifecycle-process-2.8.5/res
+com.callrecorder.app-material-icons-core-release-22 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/69b6a7e398aa9d6ed863414c41eca25f/transformed/material-icons-core-release/res
+com.callrecorder.app-core-ktx-1.13.1-23 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/6f596767ee2d144dddbff37b89245ccb/transformed/core-ktx-1.13.1/res
+com.callrecorder.app-ui-text-release-24 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/7033916379863f895cee046c300edc90/transformed/ui-text-release/res
+com.callrecorder.app-room-runtime-2.6.1-25 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/71567e36d53c36aebeef3448a9712c17/transformed/room-runtime-2.6.1/res
+com.callrecorder.app-runtime-saveable-release-26 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/71e92b1b1337c4783d3ceae9d02d64dd/transformed/runtime-saveable-release/res
+com.callrecorder.app-animation-core-release-27 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/744c89a651fd8b0d9947c2a20ea04cd6/transformed/animation-core-release/res
+com.callrecorder.app-graphics-path-1.0.1-28 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/77b7284d46d69fab36c63d097e9f9f90/transformed/graphics-path-1.0.1/res
+com.callrecorder.app-ui-tooling-preview-release-29 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/7a1a39b2b9c27d94cbb3a25342d4de84/transformed/ui-tooling-preview-release/res
+com.callrecorder.app-sqlite-framework-2.4.0-30 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/7dfc225dcf37dc5fabe4806342ef0af9/transformed/sqlite-framework-2.4.0/res
+com.callrecorder.app-savedstate-ktx-1.2.1-31 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/843a372853ca6258bf467eb3f5fc6758/transformed/savedstate-ktx-1.2.1/res
+com.callrecorder.app-material-icons-extended-release-32 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/8eb05f312a45b58c8c13ab759f5f86ba/transformed/material-icons-extended-release/res
+com.callrecorder.app-lifecycle-runtime-ktx-release-33 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/9416a62ea29ff04f6293a60402290b30/transformed/lifecycle-runtime-ktx-release/res
+com.callrecorder.app-ui-tooling-data-release-34 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/95756132296dcca618402df12bab232a/transformed/ui-tooling-data-release/res
+com.callrecorder.app-activity-compose-1.9.2-35 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/9966c4f62dd0597076fac81061e7855e/transformed/activity-compose-1.9.2/res
+com.callrecorder.app-lifecycle-livedata-core-2.8.5-36 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/9e4858303ab5e0fe44f3b8dc7d806f18/transformed/lifecycle-livedata-core-2.8.5/res
+com.callrecorder.app-emoji2-1.3.0-37 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/a65076f092dba8a4ee6999713b6dbfeb/transformed/emoji2-1.3.0/res
+com.callrecorder.app-ui-util-release-38 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/a98c54edded773a086eb0a3efd00e992/transformed/ui-util-release/res
+com.callrecorder.app-activity-1.9.2-39 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/afe7526ee5cb68c4bcd6b7154b94ec2e/transformed/activity-1.9.2/res
+com.callrecorder.app-profileinstaller-1.3.1-40 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/bbc9f86999f06458c1dde590269b9b03/transformed/profileinstaller-1.3.1/res
+com.callrecorder.app-lifecycle-viewmodel-ktx-2.8.5-41 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/c66dca07954c793747f7ce221656bf9c/transformed/lifecycle-viewmodel-ktx-2.8.5/res
+com.callrecorder.app-room-ktx-2.6.1-42 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/d7eda5f860b792d0d8c2ee0766eefb1f/transformed/room-ktx-2.6.1/res
+com.callrecorder.app-annotation-experimental-1.4.1-43 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/d810b50bb0f85cf1ea5cd944d822c7ca/transformed/annotation-experimental-1.4.1/res
+com.callrecorder.app-navigation-common-ktx-2.8.0-44 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/dd992180b556a4a5b42fb63943f9e232/transformed/navigation-common-ktx-2.8.0/res
+com.callrecorder.app-activity-ktx-1.9.2-45 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/ddf4dc758a32eb34f8de230313508f0c/transformed/activity-ktx-1.9.2/res
+com.callrecorder.app-material3-release-46 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/e341e4f104acd8262ac85c5d42655db2/transformed/material3-release/res
+com.callrecorder.app-lifecycle-viewmodel-savedstate-2.8.5-47 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/e6099331a47283d9f685f3c58dfaa5d5/transformed/lifecycle-viewmodel-savedstate-2.8.5/res
+com.callrecorder.app-navigation-runtime-ktx-2.8.0-48 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/edf39c31f41482f782ddb97dc9f52fa6/transformed/navigation-runtime-ktx-2.8.0/res
+com.callrecorder.app-ui-tooling-release-49 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/fb10881c9b2767f4144c116daf62f75e/transformed/ui-tooling-release/res
+com.callrecorder.app-runtime-release-50 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/fdab42856c9424c16090f41b333e683c/transformed/runtime-release/res
+com.callrecorder.app-lifecycle-runtime-compose-release-51 /Users/abhishekpatoliys/.gradle/caches/9.7.1/transforms/fe8bde7a7f385e70120bbd6dca9e01fd/transformed/lifecycle-runtime-compose-release/res
+com.callrecorder.app-pngs-52 /Users/abhishekpatoliys/Downloads/Android Call/app/build/generated/res/pngs/debug
+com.callrecorder.app-resValues-53 /Users/abhishekpatoliys/Downloads/Android Call/app/build/generated/res/resValues/debug
+com.callrecorder.app-packageDebugResources-54 /Users/abhishekpatoliys/Downloads/Android Call/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.callrecorder.app-packageDebugResources-55 /Users/abhishekpatoliys/Downloads/Android Call/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.callrecorder.app-debug-56 /Users/abhishekpatoliys/Downloads/Android Call/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.callrecorder.app-debug-57 /Users/abhishekpatoliys/Downloads/Android Call/app/src/debug/res
+com.callrecorder.app-main-58 /Users/abhishekpatoliys/Downloads/Android Call/app/src/main/res

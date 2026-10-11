@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.callrecorder.app-release-53:/xml_file_paths.xml.flat",
+        "source": "com.callrecorder.app-main-54:/xml/file_paths.xml"
+    }
+]
